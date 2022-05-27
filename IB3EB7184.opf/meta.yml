@@ -1,0 +1,1237 @@
+id: IB3EB7184
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T21:16:10.690425'
+last_modified: '2022-05-27T21:16:10.690438'
+parser: null
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: bo
+  base:
+    f42CA:
+      title: Title
+      base_file: f42CA.txt
+      order: 1
+    f0DC6:
+      title: Preface
+      base_file: f0DC6.txt
+      order: 2
+    f8611:
+      title: CI_§1. tathāgatasya paryāyanāmāni
+      base_file: f8611.txt
+      order: 3
+    f6740:
+      title: CI_§2. nānātathāgatanāmāni
+      base_file: f6740.txt
+      order: 4
+    f8A51:
+      title: CI_§3. samantaprabhābuddhabhūmiḥ
+      base_file: f8A51.txt
+      order: 5
+    f11D1:
+      title: CI_§4. asamasamapañcaskandhaḥ
+      base_file: f11D1.txt
+      order: 6
+    f39FA:
+      title: CI_§5. pañcajñānāni
+      base_file: f39FA.txt
+      order: 7
+    fBC2F:
+      title: CI_§6. trikāyāḥ
+      base_file: fBC2F.txt
+      order: 8
+    fBAAB:
+      title: CI_§7. daśatathāgatabalāni
+      base_file: fBAAB.txt
+      order: 9
+    fC353:
+      title: CI_§8. catvāri tathāgatasya vaiśāradyāni
+      base_file: fC353.txt
+      order: 10
+    fB3DE:
+      title: CI_§9. aṣṭādaśāveṇikabuddhadharmāḥ
+      base_file: fB3DE.txt
+      order: 11
+    f7224:
+      title: CI_§10. dvātriṃśat tathāgatasya mahākaruṇāḥ
+      base_file: f7224.txt
+      order: 12
+    fA40D:
+      title: CI_§11. trīṇy āvenikāni smṛtyupasthānāni nāmāni
+      base_file: fA40D.txt
+      order: 13
+    f2C95:
+      title: CI_§12. catvāry arakṣyāṇi
+      base_file: f2C95.txt
+      order: 14
+    f5339:
+      title: CI_§13. catvāraḥ pratisaṃvidaḥ
+      base_file: f5339.txt
+      order: 15
+    fCE83:
+      title: CI_§14. ṣaḍabhijñānāmāni
+      base_file: fCE83.txt
+      order: 16
+    fDBD5:
+      title: CI_§15. abhijñākarmāṇi
+      base_file: fDBD5.txt
+      order: 17
+    f5986:
+      title: CI_§16. trīṇi prātihāryāṇi
+      base_file: f5986.txt
+      order: 18
+    f383F:
+      title: CI_§17. dvātriṃśanmahāpuruṣalakṣaṇāni
+      base_file: f383F.txt
+      order: 19
+    fF079:
+      title: CI_§18. aśīty anuvyañjanāni
+      base_file: fF079.txt
+      order: 20
+    fE202:
+      title: CI_§19. sūtrāntoddhṛtāni tathāgatamāhātmyanāmāni
+      base_file: fE202.txt
+      order: 21
+    fFEB5:
+      title: CI_§20. ṣaṣṭyaṅgasarvanāmāni
+      base_file: fFEB5.txt
+      order: 22
+    f84E3:
+      title: CII_§21. prajñāpāramitodbhāvitasamādhināmāni
+      base_file: f84E3.txt
+      order: 23
+    f22B0:
+      title: CII_§22. bodhisatvānāṃ sādhāraṇanāmāni
+      base_file: f22B0.txt
+      order: 24
+    f98AD:
+      title: CII_§26. nānābodhisattvanāmāni
+      base_file: f98AD.txt
+      order: 25
+    f6F64:
+      title: CII_§24. bodhisatvasamādhayaḥ
+      base_file: f6F64.txt
+      order: 26
+    f9279:
+      title: CII_§25. bodhisattvadhāraṇyaḥ
+      base_file: f9279.txt
+      order: 27
+    f4A4E:
+      title: CII_§26. bodhisattvabalāni
+      base_file: f4A4E.txt
+      order: 28
+    f67B9:
+      title: CII_§27. bodhisattvavaśitā
+      base_file: f67B9.txt
+      order: 29
+    fFDD6:
+      title: CII_§28. bodhisattvānāṃ catvāri vaiśāradyāni
+      base_file: fFDD6.txt
+      order: 30
+    f5A52:
+      title: CII_§29. aṣṭādaśāveṇikabodhisattvadharmāḥ
+      base_file: f5A52.txt
+      order: 31
+    f556F:
+      title: CII_§30. bodhisattvānāṃ sūtrāntanirgatāni kāni cid guṇanāmāni
+      base_file: f556F.txt
+      order: 32
+    f52B0:
+      title: CII_§31. daśabhūmināmāni
+      base_file: f52B0.txt
+      order: 33
+    fFA59:
+      title: CII_§32. adhimukticaryābhūmināmāni
+      base_file: fFA59.txt
+      order: 34
+    f4CC9:
+      title: CII_§33. daśadharmacaryāḥ
+      base_file: f4CC9.txt
+      order: 35
+    f6AB5:
+      title: CII_§34. daśapāramitāḥ
+      base_file: f6AB5.txt
+      order: 36
+    f36A6:
+      title: CII_§35. catvāri saṃgrahavastūni
+      base_file: f36A6.txt
+      order: 37
+    f568B:
+      title: CII_§36. ṭrīṇi śikṣāṇi
+      base_file: f568B.txt
+      order: 38
+    fF157:
+      title: CII_§37. aṣṭadaśaśūnyatā
+      base_file: fF157.txt
+      order: 39
+    f1818:
+      title: CII_[saptatriṃśadbodhipakṣa]
+      base_file: f1818.txt
+      order: 40
+    f4FB1:
+      title: CII_§38. catvāri smṛtyupasthānanāmāni
+      base_file: f4FB1.txt
+      order: 41
+    f4593:
+      title: CII_§39. catvāri prahāṇāni
+      base_file: f4593.txt
+      order: 42
+    f8A79:
+      title: CII_§40. catvāra ṛddhipādāḥ
+      base_file: f8A79.txt
+      order: 43
+    f1809:
+      title: CIII_§41. pañcendriyāṇi
+      base_file: f1809.txt
+      order: 44
+    fC220:
+      title: CIII_§42. pañcabalāni
+      base_file: fC220.txt
+      order: 45
+    f60DD:
+      title: CIII_§43. saptabodhyaṅgāni
+      base_file: f60DD.txt
+      order: 46
+    f9966:
+      title: CIII_§44. aṣṭāṅgamārganāmāni
+      base_file: f9966.txt
+      order: 47
+    fC177:
+      title: CIII_§45. pratyekabuddhapudgalāḥ
+      base_file: fC177.txt
+      order: 48
+    f55E9:
+      title: CIII_§46. śrāvakapudgalakramāḥ
+      base_file: f55E9.txt
+      order: 49
+    f8274:
+      title: CIII_§47. nānāśrāvakanāmāni
+      base_file: f8274.txt
+      order: 50
+    fE296:
+      title: CIII_§48. śrāvakaguṇāḥ
+      base_file: fE296.txt
+      order: 51
+    f1012:
+      title: CIII_§49. dvādaśadhūtaguṇāḥ
+      base_file: f1012.txt
+      order: 52
+    f55DD:
+      title: CIII_§40. śrāvakabhūmayaḥ
+      base_file: f55DD.txt
+      order: 53
+    fB481:
+      title: CIII_§51. ṣaḍanusmṛtayaḥ
+      base_file: fB481.txt
+      order: 54
+    f649C:
+      title: CIII_§52.aśubhabhāvanāḥ
+      base_file: f649C.txt
+      order: 55
+    fD095:
+      title: CIII_§53. ānāpānabhāvanāvidhiḥ
+      base_file: fD095.txt
+      order: 56
+    f63A1:
+      title: CIII_§54. ṣoḍaśabhir ākārair visāritāni catvāry āryasatyāni
+      base_file: f63A1.txt
+      order: 57
+    f3323:
+      title: CIII_§55. nirvedhabhagakramaḥ
+      base_file: f3323.txt
+      order: 58
+    f66C6:
+      title: CIII_§56. ṣoḍaśacittakṣaṇāḥ
+      base_file: f66C6.txt
+      order: 59
+    f778D:
+      title: CIII_§57. daśajñānāni
+      base_file: f778D.txt
+      order: 60
+    fF4CE:
+      title: CIII_§58. catvāraḥ pratipadaḥ
+      base_file: fF4CE.txt
+      order: 61
+    fD948:
+      title: CIII_§59. yānakramaḥ
+      base_file: fD948.txt
+      order: 62
+    fF0AC:
+      title: CIII_§60. indriyavaimātratā
+      base_file: fF0AC.txt
+      order: 63
+    f78A6:
+      title: CIV_§61. pañcagotrāḥ
+      base_file: f78A6.txt
+      order: 64
+    f6CA7:
+      title: CIV_§62. dvādaśakadharmapravacanam
+      base_file: f6CA7.txt
+      order: 65
+    fC519:
+      title: CIV_§63. dharmaparyāyaḥ
+      base_file: fC519.txt
+      order: 66
+    fBDA4:
+      title: CIV_§64. dharmacakranāmāni
+      base_file: fBDA4.txt
+      order: 67
+    fA985:
+      title: CIV_§65. saddharmanāmāni
+      base_file: fA985.txt
+      order: 68
+    f8D14:
+      title: CIV_§66. kaṇṭhoktakārikā_ādīnāṃ nāmāni
+      base_file: f8D14.txt
+      order: 69
+    f245A:
+      title: CIV_§67. catvāri dhyānāni
+      base_file: f245A.txt
+      order: 70
+    fF949:
+      title: CIV_§68. samāpattināmāni
+      base_file: fF949.txt
+      order: 71
+    f27A7:
+      title: CIV_§69. catvāry apramāṇāni
+      base_file: f27A7.txt
+      order: 72
+    f0056:
+      title: CIV_§70. aṣṭau vimokṣāḥ
+      base_file: f0056.txt
+      order: 73
+    fBC4E:
+      title: CIV_§71. aṣṭāv abhibhvāyatanāni
+      base_file: fBC4E.txt
+      order: 74
+    fDBA3:
+      title: CIV_§72. daśakṛtsnāyatanāni
+      base_file: fDBA3.txt
+      order: 75
+    f3046:
+      title: CIV_§73. trīṇi vimokṣamukhāni
+      base_file: f3046.txt
+      order: 76
+    f43B8:
+      title: CIV_§74. catvāri pratisaraṇāni
+      base_file: f43B8.txt
+      order: 77
+    f8AC2:
+      title: CIV_§75. trividhāḥ prajñāḥ
+      base_file: f8AC2.txt
+      order: 78
+    f8708:
+      title: CIV_§76. pañcavidyāsthānāni
+      base_file: f8708.txt
+      order: 79
+    f08B4:
+      title: CIV_§77. catvāri dharmasamādānāni
+      base_file: f08B4.txt
+      order: 80
+    f000A:
+      title: CIV_§78. saptadhanāni
+      base_file: f000A.txt
+      order: 81
+    fD0D9:
+      title: CIV_§79. ṣaḍanuttaryāṇi
+      base_file: fD0D9.txt
+      order: 82
+    fECA5:
+      title: CIV_§80. catvāry adhiṣṭhānāni
+      base_file: fECA5.txt
+      order: 83
+    fE6C8:
+      title: CV_§81. nava pramodyapūrvakā dhasmāḥ
+      base_file: fE6C8.txt
+      order: 84
+    fAE2E:
+      title: CV_§82. ṣaḍ niḥsaraṇīyadhātavaḥ
+      base_file: fAE2E.txt
+      order: 85
+    f38B6:
+      title: CV_§83. catvāri devamanuṣyāṇāṃ cakrāṇi
+      base_file: f38B6.txt
+      order: 86
+    f423C:
+      title: CV_§84. tāpasaṃvāraparyāyāḥ
+      base_file: f423C.txt
+      order: 87
+    f2F3B:
+      title: CV_§85. yogāṅgāni
+      base_file: f2F3B.txt
+      order: 88
+    f9EC7:
+      title: CV_§86. catvāri vyākaraṇāni
+      base_file: f9EC7.txt
+      order: 89
+    f7249:
+      title: CV_§87. trīṇi lakṣaṇāni
+      base_file: f7249.txt
+      order: 90
+    f35EE:
+      title: CV_§88. catvāro ’bhiprāyāḥ
+      base_file: f35EE.txt
+      order: 91
+    f25B3:
+      title: CV_§89. catvāro ’bhisaṃdhayaḥ
+      base_file: f25B3.txt
+      order: 92
+    fFE74:
+      title: CV_§90. śamathavipaśyanāḥ
+      base_file: fFE74.txt
+      order: 93
+    fA25D:
+      title: CV_§91. daśākuśalāni
+      base_file: fA25D.txt
+      order: 94
+    f3DFB:
+      title: CV_§92. daśakuśalāni
+      base_file: f3DFB.txt
+      order: 95
+    fED09:
+      title: CV_§93. puṇyakriyāvastūni
+      base_file: fED09.txt
+      order: 96
+    f59BD:
+      title: CV_§94. paramārthaparyāyāḥ
+      base_file: f59BD.txt
+      order: 97
+    fFC1C:
+      title: CV_§95. nirvāṇaparyāyāḥ
+      base_file: fFC1C.txt
+      order: 98
+    fA2E8:
+      title: CV_§95A
+      base_file: fA2E8.txt
+      order: 99
+    f3326:
+      title: CV_§95B
+      base_file: f3326.txt
+      order: 100
+    f9FE5:
+      title: CV_§96. śaraṇaparyāyāḥ
+      base_file: f9FE5.txt
+      order: 101
+    f023B:
+      title: CV_§97. mānanāparyāyāḥ
+      base_file: f023B.txt
+      order: 102
+    f6866:
+      title: CV_§98. spro źiṅ brtson pa la sogs pa’i miṅ la
+      base_file: f6866.txt
+      order: 103
+    f704D:
+      title: CV_§99. abhayaparyāyaḥ
+      base_file: f704D.txt
+      order: 104
+    f2530:
+      title: CV_§100. pañcopādānaskandhāḥ
+      base_file: f2530.txt
+      order: 105
+    f7733:
+      title: CVI_§101. catvāri mahābhūtāni; rūpaskandhanāmāni
+      base_file: f7733.txt
+      order: 106
+    f018F:
+      title: CVI_§102. vedanāskandhanāmāni
+      base_file: f018F.txt
+      order: 107
+    f5924:
+      title: CVI_§103. saṃjñāskandhanāmāni
+      base_file: f5924.txt
+      order: 108
+    f1703:
+      title: CVI_§104. caitasikadharmāḥ
+      base_file: f1703.txt
+      order: 109
+    f9C24:
+      title: CVI_§105. vijñānanamāni
+      base_file: f9C24.txt
+      order: 110
+    f2017:
+      title: CVI_§106. dvādaśāyatanāni
+      base_file: f2017.txt
+      order: 111
+    fA2B2:
+      title: CVI_§107. aṣṭādaśadhātavaḥ
+      base_file: fA2B2.txt
+      order: 112
+    fF7C9:
+      title: CVI_§108. dvāviṃśatīndriyāṇi
+      base_file: fF7C9.txt
+      order: 113
+    fAA09:
+      title: CVI_§109. skandhadhātvāyatanendriyāntargatāni pāda_antarāṇi
+      base_file: fAA09.txt
+      order: 114
+    f7F66:
+      title: CVI_§110. rāgāḥ
+      base_file: f7F66.txt
+      order: 115
+    fAABB:
+      title: CVI_§111. trayaduḥkhatā
+      base_file: fAABB.txt
+      order: 116
+    fBBF9:
+      title: CVI_§112. punar aṣṭau duḥkhatāḥ
+      base_file: fBBF9.txt
+      order: 117
+    f99E7:
+      title: CVI_§113. dvādaśāṅga pratītyasamutpādaḥ
+      base_file: f99E7.txt
+      order: 118
+    f8BE2:
+      title: CVI_§114. ṣaḍ hetavaḥ
+      base_file: f8BE2.txt
+      order: 119
+    f675B:
+      title: CVI_§115. catvāraḥ pratyayāḥ
+      base_file: f675B.txt
+      order: 120
+    fEBA9:
+      title: CVI_§116. pañcaphalāni
+      base_file: fEBA9.txt
+      order: 121
+    f61AB:
+      title: CVI_§117. catvāro yonayaḥ
+      base_file: f61AB.txt
+      order: 122
+    fC207:
+      title: CVI_§118. catvāra āhārāḥ
+      base_file: fC207.txt
+      order: 123
+    fA852:
+      title: CVI_§119. navasattva_āvāsāḥ
+      base_file: fA852.txt
+      order: 124
+    fFB45:
+      title: CVI_§120. aṣṭa_avakṣaṇāḥ
+      base_file: fFB45.txt
+      order: 125
+    f4044:
+      title: CVII_§121. trikarmākārā
+      base_file: f4044.txt
+      order: 126
+    f0340:
+      title: CVII_§122. pañcānantarīyāṇi
+      base_file: f0340.txt
+      order: 127
+    f32D3:
+      title: CVII_§123. pañcopānantarīyāṇi
+      base_file: f32D3.txt
+      order: 128
+    f110A:
+      title: CVII_§124. pañcakaṣāyāḥ
+      base_file: f110A.txt
+      order: 129
+    fB112:
+      title: CVII_§125. aṣṭau lokadharmāḥ
+      base_file: fB112.txt
+      order: 130
+    f91E3:
+      title: CVII_§126. nānāguṇanāmāni
+      base_file: f91E3.txt
+      order: 131
+    fC33F:
+      title: CVII_§127. skyon du brtsi ba’i miṅ la
+      base_file: fC33F.txt
+      order: 132
+    f6341:
+      title: CVII_§128. ṣaḍbhogānām apāyasthānāni
+      base_file: f6341.txt
+      order: 133
+    fADC4:
+      title: CVII_§129. anuttaraparyāyāḥ
+      base_file: fADC4.txt
+      order: 134
+    fE340:
+      title: CVII_§130. pariśuddhaparyāyāḥ
+      base_file: fE340.txt
+      order: 135
+    f9ACC:
+      title: CVII_§131. nisṛjāparyāyāḥ
+      base_file: f9ACC.txt
+      order: 136
+    f6DF1:
+      title: CVII_§132. kīrttipraśaṃsāparyāyāḥ
+      base_file: f6DF1.txt
+      order: 137
+    f2B9B:
+      title: CVII_§133. nindanāparyāyāḥ
+      base_file: f2B9B.txt
+      order: 138
+    f1F72:
+      title: CVII_§134. anukūlapratikūlādayaḥ
+      base_file: f1F72.txt
+      order: 139
+    fE82C:
+      title: CVII_§135. bṛhatparīttādayaḥ
+      base_file: fE82C.txt
+      order: 140
+    fB856:
+      title: CVII_§136. mitrakāryam
+      base_file: fB856.txt
+      order: 141
+    fAA5D:
+      title: CVII_§137. amitrakarma
+      base_file: fAA5D.txt
+      order: 142
+    fF3E9:
+      title: CVII_§138. kuśalādayaḥ
+      base_file: fF3E9.txt
+      order: 143
+    fAD92:
+      title: CVII_§139. dharmadeśanāśravaṇādināmāni
+      base_file: fAD92.txt
+      order: 144
+    fBB44:
+      title: CVII_§140. māyādayaḥ
+      base_file: fBB44.txt
+      order: 145
+    f34FF:
+      title: CVIII_§141. tyāgādayaḥ
+      base_file: f34FF.txt
+      order: 146
+    fD9BD:
+      title: CVIII_§142. hitopakāraparyāyanāmāni
+      base_file: fD9BD.txt
+      order: 147
+    fC677:
+      title: CVIII_§143. blo daṅ bye bra phyed pa’i rnam pa’i miṅ la
+      base_file: fC677.txt
+      order: 148
+    f9CE4:
+      title: CVIII_§144. paṇḍitaparyāyanāmāni
+      base_file: f9CE4.txt
+      order: 149
+    f8248:
+      title: CVIII_§145. gambhīraparyāyanāmāni
+      base_file: f8248.txt
+      order: 150
+    f89B4:
+      title: CVIII_§146. nandiparyāyaḥ
+      base_file: f89B4.txt
+      order: 151
+    f4FCC:
+      title: CVIII_§147. krodhākārāḥ
+      base_file: f4FCC.txt
+      order: 152
+    f7C3D:
+      title: CVIII_§148. catvāraḥ puḍgalāḥ
+      base_file: f7C3D.txt
+      order: 153
+    f6330:
+      title: CVIII_§149. ihaparatrākārāṇi
+      base_file: f6330.txt
+      order: 154
+    f05A3:
+      title: CVIII_§150. vivekādayaḥ
+      base_file: f05A3.txt
+      order: 155
+    fAAA4:
+      title: CVIII_§151. sthānanāmāni
+      base_file: fAAA4.txt
+      order: 156
+    f510B:
+      title: CVIII_§152. bhūmikampitākāraḥ
+      base_file: f510B.txt
+      order: 157
+    f939D:
+      title: CVIII_§153. prabhāparyāyaḥ
+      base_file: f939D.txt
+      order: 158
+    fDBC3:
+      title: CVIII_§154. lokadhātavaḥ
+      base_file: fDBC3.txt
+      order: 159
+    fF026:
+      title: CVIII_§155. catvāro dvīpāḥ
+      base_file: fF026.txt
+      order: 160
+    fEE3F:
+      title: CVIII_§156. khams gsum gyi rim pa’i miṅ la
+      base_file: fEE3F.txt
+      order: 161
+    f8B17:
+      title: CVIII_§157. ’dod pa’i khams kyi lha’i miṅ la
+      base_file: f8B17.txt
+      order: 162
+    f63A3:
+      title: CVIII_§158. bsam gtan daṅ po’i sa’i miṅ la
+      base_file: f63A3.txt
+      order: 163
+    f9F94:
+      title: CVIII_§159. bsam gtan gñis pa’i sa’i miṅ la
+      base_file: f9F94.txt
+      order: 164
+    f274D:
+      title: CVIII_§160. bsam gtan gsum pa’i sa’i miṅ la
+      base_file: f274D.txt
+      order: 165
+    fD3CB:
+      title: CIX_§161. bsam gtan bźi pa’i sa’i miṅ la
+      base_file: fD3CB.txt
+      order: 166
+    f22EC:
+      title: CIX_§162. gnas gtsaṅ ma’i sa’i miṅ la
+      base_file: f22EC.txt
+      order: 167
+    fEDE9:
+      title: CIX_§163. gzugs med pa’i miṅ la
+      base_file: fEDE9.txt
+      order: 168
+    f9A47:
+      title: CIX_§164. laukikadevatāḥ
+      base_file: f9A47.txt
+      order: 169
+    fA968:
+      title: CIX_§165. navagrahāḥ
+      base_file: fA968.txt
+      order: 170
+    fB4D9:
+      title: CIX_§166. aṣṭāviṃśati nakṣatrāṇi
+      base_file: fB4D9.txt
+      order: 171
+    f4ABE:
+      title: CIX_§167. devanāganāmāni
+      base_file: f4ABE.txt
+      order: 172
+    fF683:
+      title: CIX_§168. nāgarājanāmāni
+      base_file: fF683.txt
+      order: 173
+    f62D5:
+      title: CIX_§169. klu phal pa’i miṅ la
+      base_file: f62D5.txt
+      order: 174
+    f0147:
+      title: CIX_§170. yakṣāḥ
+      base_file: f0147.txt
+      order: 175
+    fCB77:
+      title: CIX_§171. gandharvā yathā
+      base_file: fCB77.txt
+      order: 176
+    fC17C:
+      title: CIX_§172. asurā yathā
+      base_file: fC17C.txt
+      order: 177
+    fDEE9:
+      title: CIX_§173. garuḍendranāmāni
+      base_file: fDEE9.txt
+      order: 178
+    f1A40:
+      title: CIX_§174. kinnarā yathā
+      base_file: f1A40.txt
+      order: 179
+    f55E1:
+      title: CIX_§175. mahoragādhipatināmāni
+      base_file: f55E1.txt
+      order: 180
+    fE42C:
+      title: CIX_§176. kuṃbhāṇḍanāmāni
+      base_file: fE42C.txt
+      order: 181
+    f88AA:
+      title: CIX_§177. maharṣināmāni
+      base_file: f88AA.txt
+      order: 182
+    fB437:
+      title: CIX_§178. pūrvopadhyāyanāmāni
+      base_file: fB437.txt
+      order: 183
+    f71B2:
+      title: CIX_§179. tīrthikāḥ
+      base_file: f71B2.txt
+      order: 184
+    f83D3:
+      title: CIX_§180. ṣaṭ śāstāraḥ
+      base_file: f83D3.txt
+      order: 185
+    fEF3F:
+      title: CX_§181. cakravartirājānaḥ
+      base_file: fEF3F.txt
+      order: 186
+    fDBB0:
+      title: CX_§182. cakravartināṃ saptaratnādiguṇakramaḥ
+      base_file: fDBB0.txt
+      order: 187
+    fE4B8:
+      title: CX_§183. sātirekaputrasahasrāṇāṃ guṇapaddhatiḥ
+      base_file: fE4B8.txt
+      order: 188
+    f633B:
+      title: CX_§184. caturaṅgabalanāmāni
+      base_file: f633B.txt
+      order: 189
+    f6001:
+      title: CX_§185. pradeśarājanāmāni
+      base_file: f6001.txt
+      order: 190
+    f7A0C:
+      title: CX_§186. pāṇḍavādināmāni
+      base_file: f7A0C.txt
+      order: 191
+    fDBA5:
+      title: CX_§187. manuṣyakramaḥ
+      base_file: fDBA5.txt
+      order: 192
+    fFB3A:
+      title: CX_§188. catvāro varṇāḥ
+      base_file: fFB3A.txt
+      order: 193
+    f1753:
+      title: CX_§189. pha ma la sogs pa gñen bśes kyi miṅ la
+      base_file: f1753.txt
+      order: 194
+    f2242:
+      title: CX_§190. śarīrāṅgapratyaṅgāni
+      base_file: f2242.txt
+      order: 195
+    f3AFD:
+      title: CX_§191. lus su ’gyur ba’i rim pa’i miṅ la
+      base_file: f3AFD.txt
+      order: 196
+    f4DC4:
+      title: CX_§193
+      base_file: f4DC4.txt
+      order: 197
+    f7D2C:
+      title: CX_§194. rgas pa daṅ na ba’i miṅ la
+      base_file: f7D2C.txt
+      order: 198
+    f491B:
+      title: CX_§195. yul gyi miṅ la
+      base_file: f491B.txt
+      order: 199
+    f71C7:
+      title: CX_§195 girināmāni
+      base_file: f71C7.txt
+      order: 200
+    fBAB0:
+      title: CX_§196. rgya mtsho’i miṅ gi rnam graṅs daṇ chu daṅ gliṅ la sogs pa’i
+        miṅ la
+      base_file: fBAB0.txt
+      order: 201
+    f2497:
+      title: CX_§197. śiṅ gi miṅ la
+      base_file: f2497.txt
+      order: 202
+    f9BCB:
+      title: CX_§198. mantranāyavanirgatāni
+      base_file: f9BCB.txt
+      order: 203
+    fDC29:
+      title: CX_§199. utpātanimittāni
+      base_file: fDC29.txt
+      order: 204
+    f2784:
+      title: CX_§200. pramāṇatarkanirgatārthāḥ
+      base_file: f2784.txt
+      order: 205
+    f99E4:
+      title: CXI_§201. mu stegs pa rigs pa can gyi gźuṅ las ’byuṅ ba
+      base_file: f99E4.txt
+      order: 206
+    fA756:
+      title: CXI_§202. graṅs can gyi gźuṅ las ’byuṅ ba
+      base_file: fA756.txt
+      order: 207
+    f3FC9:
+      title: CXI_§203. spyod pa can gyi gźuṅ la ’byuṅ ba
+      base_file: f3FC9.txt
+      order: 208
+    f6B6A:
+      title: CXI_§204. bye brag pa’i tshig gi don drug la sogs pa’i miṅ la
+      base_file: f6B6A.txt
+      order: 209
+    f5118:
+      title: CXI_§205. tshad ma maṅ po smra ba las ’byuṅ ba
+      base_file: f5118.txt
+      order: 210
+    f5BB2:
+      title: CXI_§206. lta ba sna tshogs kyi miṅ la
+      base_file: f5BB2.txt
+      order: 211
+    fA399:
+      title: CXI_§207. caturdaśāvyākṛtamūlāni
+      base_file: fA399.txt
+      order: 212
+    fECE8:
+      title: CXI_§208. tīrthakātmaparyāyāḥ
+      base_file: fECE8.txt
+      order: 213
+    f0837:
+      title: CXI_§209. viṃśatiśikharasamudgataḥ satkāyadṛṣṭiśailaḥ
+      base_file: f0837.txt
+      order: 214
+    fACC4:
+      title: CXI_§210. vyā ka ra ṇa’i skad kyi miṅ la
+      base_file: fACC4.txt
+      order: 215
+    f22E1:
+      title: CXI_§211. saptavibhaktikāyaḥ
+      base_file: f22E1.txt
+      order: 216
+    fEB0B:
+      title: CXI_§212. yi dags su gtogs pa’i miṅ la
+      base_file: fEB0B.txt
+      order: 217
+    f743E:
+      title: CXI_§213
+      base_file: f743E.txt
+      order: 218
+    fBADA:
+      title: CXI_§215. sems can dmyal ba daṅ gcad ciṅ gtub la sogs pa’i miṅ la
+      base_file: fBADA.txt
+      order: 219
+    fF671:
+      title: CXI_§216. graṅ ba’i sems can dmyal ba’ʼmiṅ la
+      base_file: fF671.txt
+      order: 220
+    f2D19:
+      title: CXI_§217. aṣṭādaśavidyā sthānāni
+      base_file: f2D19.txt
+      order: 221
+    f045A:
+      title: CXI_§218. bzo’i gnas daṅ sgyu rtsal gyi miṅ la
+      base_file: f045A.txt
+      order: 222
+    f60F2:
+      title: CXI_§219. rol mo byed pa daṅ spyad kyi miṅ la
+      base_file: f60F2.txt
+      order: 223
+    f5B13:
+      title: CXI_§220. glu dbyaṅs kyi miṅ la
+      base_file: f5B13.txt
+      order: 224
+    f6B8E:
+      title: CXII_§221. gar thabs kyi rnams graṅs la
+      base_file: f6B8E.txt
+      order: 225
+    fB9CA:
+      title: CXII_§222. brāhmaṇavihārakarmāṇi
+      base_file: fB9CA.txt
+      order: 226
+    f7245:
+      title: CXII_§223. bram ze’i las rnam pa drug gi miṅ la
+      base_file: f7245.txt
+      order: 227
+    fC999:
+      title: CXII_§224. skad go mthun gyi miṅ la
+      base_file: fC999.txt
+      order: 228
+    fCB4E:
+      title: CXII_§225. svargakāmādīnām nāmāni
+      base_file: fCB4E.txt
+      order: 229
+    f9A43:
+      title: CXII_§226. skabs nas tshig gi phrad du ’byuṅ ba‘i miṅ la
+      base_file: f9A43.txt
+      order: 230
+    fAA1F:
+      title: CXII_§227. mkhar daṅ gnas daṅ gos la sogs pa’i lam sraṅ gi miṅ la
+      base_file: fAA1F.txt
+      order: 231
+    fEE9E:
+      title: CXII_§228. śiṅ rta daṅ thoṅ gśol gyi yan lag tu gtogs pa’i miṅ la
+      base_file: fEE9E.txt
+      order: 232
+    f7B23:
+      title: CXII_§229. ’bru sna tshogs kyi miṅ la
+      base_file: f7B23.txt
+      order: 233
+    f36A9:
+      title: CXII_§230. dus ston gyi miṅ la
+      base_file: f36A9.txt
+      order: 234
+    f6C4F:
+      title: CXII_§231. źo mar daṅ zas skom gyi miṅ la
+      base_file: f6C4F.txt
+      order: 235
+    f9D8A:
+      title: CXII_§232. oṣadhināmāni
+      base_file: f9D8A.txt
+      order: 236
+    fCC84:
+      title: CXII_§233. vastranāmāni
+      base_file: fCC84.txt
+      order: 237
+    fBB43:
+      title: CXII_§234. pariṣkāranāmāni
+      base_file: fBB43.txt
+      order: 238
+    f4B27:
+      title: CXII_§235. raṅganāmāni
+      base_file: f4B27.txt
+      order: 239
+    f519F:
+      title: CXII_§236. maṇiratnanāmāni
+      base_file: f519F.txt
+      order: 240
+    f093C:
+      title: CXII_§237. śaṅkhādināmāni
+      base_file: f093C.txt
+      order: 241
+    f0507:
+      title: CXII_§238. sarvālaṃkāranāmāni
+      base_file: f0507.txt
+      order: 242
+    f4747:
+      title: CXII_§239. go mtshon gyi miṅ la
+      base_file: f4747.txt
+      order: 243
+    f0441:
+      title: CXII_§240. pūjāpariṣkārāḥ
+      base_file: f0441.txt
+      order: 244
+    f5666:
+      title: CXIII_§241. puṣpanāmāni
+      base_file: f5666.txt
+      order: 245
+    fF6A9:
+      title: CXIII_§242. puṣpamūlādināmāni
+      base_file: fF6A9.txt
+      order: 246
+    f911F:
+      title: CXIII_§243. puṣpaguṇanāmāni
+      base_file: f911F.txt
+      order: 247
+    f0C09:
+      title: CXIII_§244. sarvadhūpanāmāni
+      base_file: f0C09.txt
+      order: 248
+    fCEB6:
+      title: CXIII_§245. skad go ’dun gyi miṅ la
+      base_file: fCEB6.txt
+      order: 249
+    fA502:
+      title: CXIII_§246. āryamahāvaipulyabuddhāvataṃsakasutrāntavittagaṇanānāmāni
+      base_file: fA502.txt
+      order: 250
+    f8442:
+      title: CXIII_§247. āryagaṇḍavyūhodbhavitasaṃkhyānāmāni
+      base_file: f8442.txt
+      order: 251
+    f928C:
+      title: CXIII_§248. lalitavistarodbhavitasaṃkhyānāmāni
+      base_file: f928C.txt
+      order: 252
+    f24BE:
+      title: CXIII_§249. abhdharmodbhavitasaṃkhyānāmāni
+      base_file: f24BE.txt
+      order: 253
+    f881A:
+      title: CXIII_§250. ’jig rten pa’i graṅ kyi miṅ la
+      base_file: f881A.txt
+      order: 254
+    f7B11:
+      title: CXIII_§251. rdul phra mo las bsgyur te dpag tshad la sogs par bsgre ba’i
+        miṅ la
+      base_file: f7B11.txt
+      order: 255
+    fADE4:
+      title: CXIII_§252. stobs bcur bsgur te bsgre ba’i miṅ la
+      base_file: fADE4.txt
+      order: 256
+    fD225:
+      title: CXIII_§253. dus kyi miṅ la
+      base_file: fD225.txt
+      order: 257
+    f86DE:
+      title: CXIII_§254. digvidignāmāni
+      base_file: f86DE.txt
+      order: 258
+    fFCC0:
+      title: CXIII_§255. bslab pa bca’ ba’i phan yon bcu daṅ ltuṅ byed sde lṅa la
+        sogs pa’i miṅ las phan yon bcu’i miṅ las
+      base_file: fFCC0.txt
+      order: 259
+    f4919:
+      title: CXIII_§256. ltuṅ byed sde lṅa daṅ ma ṅes pa’i miṅ la
+      base_file: f4919.txt
+      order: 260
+    f20EA:
+      title: CXIII_§257. phas pham pa bźi’i miṅ la
+      base_file: f20EA.txt
+      order: 261
+    f418A:
+      title: CXIII_§258. dge ʼdun lhag ma bcu gsum ma ṅes pa‘i miṅ la
+      base_file: f418A.txt
+      order: 262
+    f88AF:
+      title: CXIII_§259. naiḥsargikāḥ pāyattikāḥ
+      base_file: f88AF.txt
+      order: 263
+    fA56F:
+      title: CXIII_§259A. prathamaṃ daśakam
+      base_file: fA56F.txt
+      order: 264
+    fBE5A:
+      title: CXIII_§259B. dvitīyaṃ daśakam
+      base_file: fBE5A.txt
+      order: 265
+    fE75E:
+      title: CXIII_§259C. tṛtīyaṃ daśakam
+      base_file: fE75E.txt
+      order: 266
+    fBAB9:
+      title: CXIII_§260. navatipātayantikādharmāḥ
+      base_file: fBAB9.txt
+      order: 267
+    f75A1:
+      title: CXIII_§260A. prathamaṃ daśakam
+      base_file: f75A1.txt
+      order: 268
+    fF46F:
+      title: CXIII_§260B. dvitīyaṃ daśakam
+      base_file: fF46F.txt
+      order: 269
+    fB50B:
+      title: CXIII_§260C. tṛtīyaṃ daśakam
+      base_file: fB50B.txt
+      order: 270
+    f9259:
+      title: CXIII_§260D. caturthaṃ daśakam
+      base_file: f9259.txt
+      order: 271
+    f50A6:
+      title: CXIII_§260E. pañcamaṃ daśakam
+      base_file: f50A6.txt
+      order: 272
+    fA867:
+      title: CXIII_§260F. ṣaṣṭhaṃ daśakam
+      base_file: fA867.txt
+      order: 273
+    f8C23:
+      title: CXIII_§260G. saptamaṃ daśakam
+      base_file: f8C23.txt
+      order: 274
+    f8A84:
+      title: CXIII_§260H. aṣṭamaṃ daśakam
+      base_file: f8A84.txt
+      order: 275
+    f82D4:
+      title: CXIII_§260I. navamaṃ daśakam
+      base_file: f82D4.txt
+      order: 276
+    fCE18:
+      title: CXIV_§261. pratideśanīyāni
+      base_file: fCE18.txt
+      order: 277
+    fF94D:
+      title: CXIV_§262. bslab pa’i chos maṅ po’i miṅ la
+      base_file: fF94D.txt
+      order: 278
+    fEFD2:
+      title: CXIV_§263. adhikaraṇaśamathā
+      base_file: fEFD2.txt
+      order: 279
+    f359C:
+      title: CXIV_§264. chad pas bcad ciṅ gso ba la sogs pa’i miṅ la
+      base_file: f359C.txt
+      order: 280
+    f9A98:
+      title: CXIV_§265. gsol ba daṅ las la sogs pa’i miṅ la
+      base_file: f9A98.txt
+      order: 281
+    f041A:
+      title: CXIV_§266. triśaraṇagamanam
+      base_file: f041A.txt
+      order: 282
+    fEE8E:
+      title: CXIV_§267. bslab pa’i gźi brgyad la sogs pa’i miṅ la
+      base_file: fEE8E.txt
+      order: 283
+    fD923:
+      title: CXIV_§268. catvārah śramaṇakārakadharmāḥ
+      base_file: fD923.txt
+      order: 284
+    fB777:
+      title: CXIV_§269. rab tu ’byuṅ ba la sogs pa’i miṅ la
+      base_file: fB777.txt
+      order: 285
+    f5994:
+      title: CXIV_§270. rab tu byuṅ ba’i gźi la
+      base_file: f5994.txt
+      order: 286
+    f440D:
+      title: CXIV_§271. yo byad bcu gsum gyi miṅ la
+      base_file: f440D.txt
+      order: 287
+    f1550:
+      title: CXIV_§272. dge sbyod gi yo byad kyi miṅ la
+      base_file: f1550.txt
+      order: 288
+    fA071:
+      title: CXIV_§273. gaṅ zag bcu gñis miṅ la
+      base_file: fA071.txt
+      order: 289
+    fB60B:
+      title: CXIV_§274. sde pa bżi rnam pa
+      base_file: fB60B.txt
+      order: 290
+    fFB47:
+      title: CXIV_§275. gżi bcu bdun la
+      base_file: fFB47.txt
+      order: 291
+    fE7F0:
+      title: CXIV_§276. chu ruṅ ba rnam pa lṅa’i miṅ la
+      base_file: fE7F0.txt
+      order: 292
+    fD6AF:
+      title: CXIV_§277. dge sbyoṅ gi skyon du brtsi ba la
+      base_file: fD6AF.txt
+      order: 293
+    f6CCD:
+      title: CXIV_§278. gtsug lag khaṅ
+      base_file: f6CCD.txt
+      order: 294
+    f1584:
+      title: CXIV_§279. gos kyi gźi’i miṅ la
+      base_file: f1584.txt
+      order: 295
+    f3EBB:
+      title: CXIV_§280. ’dul ba las bstus pa’i skad thor bu pa
+      base_file: f3EBB.txt
+      order: 296
+    f4E4B:
+      title: CXV_§281. drug sde’i miṅ la
+      base_file: f4E4B.txt
+      order: 297
+    fC68C:
+      title: CXV_§282. ma ma bźi‘i miṅ la
+      base_file: fC68C.txt
+      order: 298
+    f4C61:
+      title: CXV_§283. vyādhināmāni
+      base_file: f4C61.txt
+      order: 299
+    f93B5:
+      title: Colophon
+      base_file: f93B5.txt
+      order: 300
+  chapter_to_tile:
+    CI: §1-20
+    CII: §21-40
+    CIII: §41-60
+    CIV: §61-80
+    CV: §81-100
+    CVI: §101-120
+    CVII: §121-140
+    CVIII: §141-160
+    CIX: §161-180
+    CX: §181-200
+    CXI: §201-220
+    CXII: §221-240
+    CXIII: §241-260
+    CXIV: §261-280
+    CXV: §281-283
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
